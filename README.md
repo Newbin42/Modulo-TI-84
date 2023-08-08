@@ -4,4 +4,5 @@ It may work on the ti-83 or newer models, however functionality is not guarantee
 
 # To Use:
  - Install TI-Connect
+ - Download the Mod.8xp file from releases or main branch
  - Using TI-Connect drop the file from your computer onto the calculator.
